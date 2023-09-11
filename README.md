@@ -1,7 +1,7 @@
 # URI-parse
 Parsing di string URI
 
-Il progetto comprende due librerie che permettono l'analisi e la scomposizione di stringhe in formato URI nelle varie componenti. Queste componenti vengono poste all'interno di una struttura se l'URI è formato correttamente. 
+Il progetto comprende una libreria che permette l'analisi e la scomposizione di stringhe in formato URI nelle varie componenti. Queste componenti vengono poste all'interno di una struttura se l'URI è formato correttamente. 
 
 Sintassi URI
 Il progetto prevede l'analisi di URI la cui sintassi è stata semplificata ed è riportata
